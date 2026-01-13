@@ -1,1 +1,0 @@
-# Airbnb-Snowflake-DBT-Project
