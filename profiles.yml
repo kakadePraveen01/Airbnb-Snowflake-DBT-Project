@@ -3,7 +3,7 @@ airbnb_snowflake_dbt_project:
     dev:
       account: VBTVNRE-TTC87553
       database: AIRBNB
-      password: Pr@veenkumar01
+      password: #########
       role: ACCOUNTADMIN
       schema: dbt_schema
       threads: 1
